@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">Interior Design Page</h1>
+<h1 align="center">Cheesecake Recipe Page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -8,11 +8,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://rodrigogzmn6-interior-design.netlify.app/">
+    <a href="https://rodrigogzmn6-recipe-page.netlify.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/Rodrigogzmn6/WebDev03-InteriorConsultantPage">
+    <a href="https://github.com/Rodrigogzmn6/WebDev04-RecipePage">
       Solution
     </a>
     <span> | </span>
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](__finished-project/interior-consultant.png)
+![screenshot](__finished-project/recipe-page.png)
 
 ### Built With
 
